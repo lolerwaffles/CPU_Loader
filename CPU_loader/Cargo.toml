@@ -1,0 +1,7 @@
+[package]
+name = "CPU_loader"
+version = "0.1.0"
+authors = ["walter"]
+edition = "2018"
+
+[dependencies]
